@@ -14,13 +14,13 @@ body{
 
 .cardStack{
 
-	margin: 8rem auto 8rem;
-	padding: 0px 100px;
+	margin: 10% auto 8rem;
+	padding: 0% 10%;
 }
 
 .cardsTry{
 	display: inline;
-	margin: 2rem 54px;
+	margin: 20px auto;
 }
 
 
