@@ -1,0 +1,48 @@
+
+/****************************************************Tag Selector*************************************************************/
+
+a{
+	
+}
+
+body{
+	margin: 0px;
+	text-align: center;
+}
+
+
+
+/****************************************************Class Selector*************************************************************/
+
+.top{
+	height: 200px;
+	width: 200px;
+	background-color: #cffffe;
+	border: solid 10px;
+	padding: 20px;
+	position: relative;
+	margin: 0px auto;
+}
+
+.middle{
+	height: 200px;
+	width: 200px; 
+	background-color: #0f4c75;
+	border: solid 20px;
+	margin-left: 260px;
+}
+
+.bottom{
+	height: 200px;
+	width: 200px;
+	background-color: #cffffe;
+	border: solid 10px;
+	margin-left: 500px;
+}
+
+
+/****************************************************ID Selector*************************************************************/
+
+#try{
+
+}
